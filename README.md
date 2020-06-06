@@ -26,7 +26,6 @@ This lab is composed of two parts:
 
 ### Lab 3: Classification: 
 Applying various classification methods such as Bayes method, KNN, MLP, CNN on data sets of three classes scattered on 2D space.
-The notebook for this lab will be added after its grade is announced.
 
 ### Final Project:
 The detailed description and files of this project can be found in a repository in my fellow teammate Imad's profile:
