@@ -15,13 +15,17 @@ Team Members:
 
 ### Lab 1: Image Segmentation: 
 This lab is composed of two parts:
+
 	1- Brain tissue segmentation using a variety of region and contour based segmentation methods such as region growing, region splitting and merging, contour detection + binary region growing
+	
 	2- Shape/color segmentation: counting the number of shapes of each color and computing the total area (in pixels) of each color.
 
 
 ### Lab 2: Object description: 
 This lab is composed of two parts:
+
 	1- Description of handwritten 0&1 using Fourier descriptors, PCA, t-SNE, Chamfer Distance and many other methods
+	
 	2- Applying the same methods (a few key methods among them) to handwritten 0/1/2/3 to demonstrate how they perform for a larger number of different classes
 
 ### Lab 3: Classification: 
